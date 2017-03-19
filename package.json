@@ -1,0 +1,10 @@
+{
+  "name": "npm_scripts",
+  "version": "0.0.1",
+  "description": "Assets for my Tooling with NPM Scripts course at Lynda.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwinchen85/npm_scripts.git"
+  },
+  "author": "Edwin Chen"
+}
