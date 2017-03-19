@@ -6,5 +6,11 @@
     "type": "git",
     "url": "https://github.com/edwinchen85/npm_scripts.git"
   },
-  "author": "Edwin Chen"
+  "author": "Edwin Chen",
+  "scripts": {
+    "serve-dev": "live-server builds/development"
+  },
+  "devDependencies": {
+    "live-server": "^1.0.0"
+  }
 }
